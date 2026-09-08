@@ -4,28 +4,34 @@ body{
 background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHDwq3qjHpHyB3QdOVG7TCPCzUC1kfzskdbZkqxelVw&s=10");
 background-repeat: no-repeat;
 background-size: cover;
+
 h1{
-    color: aliceblue;
-    margin-left: 800px;
+    color: rgb(255, 255, 255);
+    margin-left: 760px;
     margin-top: 20px;
-border-color: blue;
+border-color: rgb(0, 0, 255);
 border: 1px;
 font-size:70px;
+background-color:rgb(201, 98, 61);
+border-radius: 20px;
+margin-right: 700px;
+text-shadow: 0 0 10px #cbe978, 0 0 20px #eed64f; 
+}
 }
 
 
 h2{
-    margin-left: 858px;
+    margin-left: 828px;
     margin-top: 200px;
     color: aliceblue; font-size: 40px;
 }
 label{
-    margin-left: 880px;
+    margin-left: 870px;
     color: aliceblue;
    
 }
 input{
-    margin-left: 880px;
+    margin-left: 860px;
 }
 button{
     margin-left: 880px;
